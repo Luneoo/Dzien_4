@@ -36,6 +36,8 @@ foreach (char letter in letters)
 
 }
 
+Console.WriteLine("Liczba to " + number);
+
 for (int i = 0; i <= 9; i++)
 {
     Console.WriteLine("Cyfr " + i + "-> " + counter[i]);
