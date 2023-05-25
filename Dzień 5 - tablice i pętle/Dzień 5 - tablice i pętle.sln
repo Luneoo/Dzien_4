@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dzień 5 - tablice i pętle", "Dzień 5 - tablice i pętle\Dzień 5 - tablice i pętle.csproj", "{B830FFBF-0C5E-47E2-ADED-D3BBD8398C98}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{BA7990A3-741A-494A-B723-8B77D8BEFFEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B830FFBF-0C5E-47E2-ADED-D3BBD8398C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B830FFBF-0C5E-47E2-ADED-D3BBD8398C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B830FFBF-0C5E-47E2-ADED-D3BBD8398C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B830FFBF-0C5E-47E2-ADED-D3BBD8398C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA7990A3-741A-494A-B723-8B77D8BEFFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7990A3-741A-494A-B723-8B77D8BEFFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7990A3-741A-494A-B723-8B77D8BEFFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7990A3-741A-494A-B723-8B77D8BEFFEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D3A3EF50-E7F9-494A-85AE-5D203D78F5C0}
+		SolutionGuid = {53E718AF-A7BE-4205-8208-24AF32C9DA19}
 	EndGlobalSection
 EndGlobal
